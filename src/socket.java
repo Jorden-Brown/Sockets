@@ -21,5 +21,10 @@ public class socket {
 		
 	}
 
+	public static InputStream getInputStream() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
 // jorden brown 
